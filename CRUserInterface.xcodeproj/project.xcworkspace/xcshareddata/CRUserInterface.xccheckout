@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>2C9D5FC1-1225-44CC-99E3-8D18D22F757E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CRUserInterface</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>37649CDC-4D9C-4211-9005-512F4A3CBD0D</key>
+		<string>ssh://github.com/CinnamonRoll-co-ltd/CRUserInterface.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>CRUserInterface.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>37649CDC-4D9C-4211-9005-512F4A3CBD0D</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/CinnamonRoll-co-ltd/CRUserInterface.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>37649CDC-4D9C-4211-9005-512F4A3CBD0D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>37649CDC-4D9C-4211-9005-512F4A3CBD0D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CRUserInterface</string>
+		</dict>
+	</array>
+</dict>
+</plist>
