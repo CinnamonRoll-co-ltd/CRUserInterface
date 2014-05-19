@@ -13,4 +13,13 @@
 +(id)createInView:(UIView*)view;
 
 
+// Layout
+
+-(void)behine:(UIView*)behineView;
+-(void)behineInHorizental:(UIView*)behineView;
+-(void)behine:(UIView*)behineView top:(CGFloat)top;
+-(void)behineInHorizental:(UIView*)behineView left:(CGFloat)left;
+
+
+
 @end

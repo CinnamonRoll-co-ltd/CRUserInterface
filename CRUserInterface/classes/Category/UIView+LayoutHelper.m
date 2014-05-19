@@ -18,5 +18,28 @@
 }
 
 
+// Layout
+-(void)behine:(UIView*)behineView
+{
+    [self behine:behineView top:0];
+}
+
+-(void)behineInHorizental:(UIView*)behineView
+{
+    [self behineInHorizental:behineView left:0];
+}
+
+-(void)behine:(UIView*)behineView top:(CGFloat)top;
+{
+    CGFloat y = CGRectGetMaxY(behineView.frame) + 0.5*CGRectGetHeight(self.frame) + top;
+    self.center = CGPointMake(self.center.x, y);
+}
+-(void)behineInHorizental:(UIView*)behineView left:(CGFloat)left
+{
+    CGFloat x = CGRectGetMaxX(behineView.frame) + 0.5*CGRectGetWidth(self.frame) + left;
+    self.center = CGPointMake(x, self.center.y);
+}
+
+
 
 @end
